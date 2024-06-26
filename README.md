@@ -12,13 +12,11 @@ This repository contains a Jupyter notebook for predicting house prices using ad
 ## Table of Contents
 
 - [Project Description](#project-description)
-- [Installation](#installation)
 - [Usage](#usage)
 - [Dataset](#dataset)
 - [Notebook Overview](#notebook-overview)
 - [Results](#results)
-- [Contributing](#contributing)
-- [License](#license)
+
 
 ---
 
